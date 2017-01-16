@@ -82,7 +82,7 @@ public class Star {
         {
         	System.out.println("Á¾·á.");
         	break;
-        }
+        }/**/
        }
      }
    }
